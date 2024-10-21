@@ -13,7 +13,7 @@ Computer Science. Solid experience using web development frameworks. Currently f
 
 📫 You can reach me on:
 - Email: kentescoto24@gmail.com
-- Linkedin: linkedin.com/in/kent-joemar-escoto-646b92265
+- Linkedin: https://www.linkedin.com/in/kent-joemar-escoto-646b92265
 - X: https://x.com/_foetaka
 
 ### Programming Languages
