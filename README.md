@@ -8,22 +8,27 @@
 
 
 ### About Me
-
-Computer Science. Solid experience using web development frameworks. Currently focused on Web Design and Web Development.
+Bachelor Science in Computer Science. 
+A front-end developer with expertise in UI/UX design and a strong foundation in web development, including HTML5, JavaScript, and CSS3. Seeking to apply my skills and abilities to contribute to innovative and user-friendly digital solutions in a dynamic and growth-oriented environment.
 
 📫 You can reach me on:
 - Email: kentescoto24@gmail.com
 - Linkedin: https://www.linkedin.com/in/kent-joemar-escoto-646b92265
 - X: https://x.com/_foetaka
+- Phone No. (PH): +639507541450
 
-### Programming Languages
-* Java
-* PHP
-* Python
-* Javascript
+### Technical Skills
+* Frameworks and Libraries - Nuxt JS, Tailwind CSS
+* UI/UX Design - Figma, Adobe Photoshop
+* Other Tools - GIT, MySQL
   
-### Development Frameworks
-* **Front-end**: Nuxt.
-* **CSS Style**: Tailwind.
-* **Back-end**: Laravel.
-* **Database**: MySql.
+### Specialized Skills
+* Responsive and Dynamic Design
+* Code Tracing and Debugging
+* Basic back-end knowledge (Laravel)
+
+### Soft Skills
+* Problem-solving
+* Communication
+* Team Collaboration
+* Time Management
